@@ -1,0 +1,29 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(90deg, #002F52 35%, #326589);
+}
+
+.content-usinas {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: auto;
+    padding: 25px;
+}
+
+.texto-usinas {
+    color: #FFF;
+}
+
+.lista-usinas {
+    list-style: none;
+    color: #FFF;
+    padding: 0px;
+    font-size: 25px;
+}
+
+.usina {
+    margin-bottom: 20px;
+}
